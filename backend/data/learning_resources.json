@@ -1,0 +1,924 @@
+[
+  {
+    "id": "1",
+    "skill": "JavaScript",
+    "description": "JavaScript is a programming language for the web.",
+    "difficulty": "beginner",
+    "estimatedHours": 40,
+    "officialDocs": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "freeCourses": [
+      {
+        "title": "JavaScript Basics",
+        "url": "https://javascript.info/",
+        "platform": "JavaScript.info"
+      },
+      {
+        "title": "FreeCodeCamp JS",
+        "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+        "platform": "FreeCodeCamp"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/"
+      },
+      {
+        "name": "HackerRank",
+        "url": "https://www.hackerrank.com/domains/tutorials/10-days-of-javascript"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "To-Do App",
+        "description": "Build a to-do list app with vanilla JS"
+      },
+      {
+        "title": "Calculator",
+        "description": "Build a calculator with HTML/CSS/JS"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "JavaScript Crash Course",
+        "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "skill": "TypeScript",
+    "description": "TypeScript is a typed superset of JavaScript.",
+    "difficulty": "intermediate",
+    "estimatedHours": 30,
+    "officialDocs": "https://www.typescriptlang.org/docs/",
+    "freeCourses": [
+      {
+        "title": "TypeScript Handbook",
+        "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+        "platform": "TypeScriptLang"
+      },
+      {
+        "title": "Total TypeScript",
+        "url": "https://www.totaltypescript.com/tutorials",
+        "platform": "Total TypeScript"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "TypeScript Playground",
+        "url": "https://www.typescriptlang.org/play"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "TypeScript API",
+        "description": "Build a REST API with TypeScript"
+      },
+      {
+        "title": "Typed React App",
+        "description": "Convert a React app to TypeScript"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "TypeScript Tutorial",
+        "url": "https://www.youtube.com/watch?v=30LWjhZzg50",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "skill": "React",
+    "description": "React is a UI component library for web apps.",
+    "difficulty": "intermediate",
+    "estimatedHours": 50,
+    "officialDocs": "https://react.dev/",
+    "freeCourses": [
+      {
+        "title": "React Tutorial",
+        "url": "https://react.dev/learn",
+        "platform": "React"
+      },
+      {
+        "title": "FreeCodeCamp React",
+        "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+        "platform": "FreeCodeCamp"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "CodeSandbox",
+        "url": "https://codesandbox.io/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Weather App",
+        "description": "Build a weather app using React and OpenWeather API"
+      },
+      {
+        "title": "E-commerce Cart",
+        "description": "Build a shopping cart with React Context"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "React Full Course",
+        "url": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "skill": "Node.js",
+    "description": "Node.js is a JavaScript runtime for server-side programming.",
+    "difficulty": "intermediate",
+    "estimatedHours": 40,
+    "officialDocs": "https://nodejs.org/en/docs/",
+    "freeCourses": [
+      {
+        "title": "Node.js Dev",
+        "url": "https://nodejs.dev/en/learn/",
+        "platform": "Node.js"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Exercism Node.js",
+        "url": "https://exercism.org/tracks/javascript"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "REST API",
+        "description": "Build a CRUD REST API with Express"
+      },
+      {
+        "title": "Real-time Chat",
+        "description": "Build a chat app with Socket.io"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Node.js Crash Course",
+        "url": "https://www.youtube.com/watch?v=zb3Qk8SG5Ms",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "skill": "Python",
+    "description": "Python is a versatile programming language.",
+    "difficulty": "beginner",
+    "estimatedHours": 35,
+    "officialDocs": "https://docs.python.org/3/",
+    "freeCourses": [
+      {
+        "title": "Python for Everybody",
+        "url": "https://www.py4e.com/",
+        "platform": "py4e"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "HackerRank Python",
+        "url": "https://www.hackerrank.com/domains/python"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Web Scraper",
+        "description": "Build a web scraper with BeautifulSoup"
+      },
+      {
+        "title": "CLI Tool",
+        "description": "Build a command-line to-do app"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Python Full Course",
+        "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "skill": "SQL",
+    "description": "SQL is used to manage and query relational databases.",
+    "difficulty": "beginner",
+    "estimatedHours": 25,
+    "officialDocs": "https://www.postgresql.org/docs/",
+    "freeCourses": [
+      {
+        "title": "SQL Tutorial",
+        "url": "https://www.sqltutorial.org/",
+        "platform": "SQL Tutorial"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "SQLZoo",
+        "url": "https://sqlzoo.net/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Library DB",
+        "description": "Design a library database"
+      },
+      {
+        "title": "E-commerce DB",
+        "description": "Build a product database with joins"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "SQL Full Course",
+        "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "skill": "Docker",
+    "description": "Docker is a containerization platform.",
+    "difficulty": "intermediate",
+    "estimatedHours": 20,
+    "officialDocs": "https://docs.docker.com/",
+    "freeCourses": [
+      {
+        "title": "Docker 101",
+        "url": "https://www.docker.com/101-tutorial/",
+        "platform": "Docker"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Play with Docker",
+        "url": "https://labs.play-with-docker.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Dockerize App",
+        "description": "Containerize a Node.js app"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Docker Tutorial",
+        "url": "https://www.youtube.com/watch?v=3c8BnqzD7Mg",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "skill": "Git",
+    "description": "Git is a version control system.",
+    "difficulty": "beginner",
+    "estimatedHours": 15,
+    "officialDocs": "https://git-scm.com/doc",
+    "freeCourses": [
+      {
+        "title": "Git Tutorial",
+        "url": "https://www.atlassian.com/git/tutorials",
+        "platform": "Atlassian"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Learn Git Branching",
+        "url": "https://learngitbranching.js.org/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Git Workflow",
+        "description": "Practice branching and merging"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Git & GitHub Crash Course",
+        "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "skill": "REST APIs",
+    "description": "REST APIs are web API design patterns.",
+    "difficulty": "intermediate",
+    "estimatedHours": 20,
+    "officialDocs": "https://restfulapi.net/",
+    "freeCourses": [
+      {
+        "title": "REST API Tutorial",
+        "url": "https://www.restapitutorial.com/",
+        "platform": "REST API Tutorial"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Postman",
+        "url": "https://www.postman.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Books API",
+        "description": "Build a CRUD REST API for books"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "REST API Concepts",
+        "url": "https://www.youtube.com/watch?v=lsMQRaeKNDk",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "skill": "AWS",
+    "description": "Amazon Web Services cloud platform.",
+    "difficulty": "advanced",
+    "estimatedHours": 60,
+    "officialDocs": "https://docs.aws.amazon.com/",
+    "freeCourses": [
+      {
+        "title": "AWS Skill Builder",
+        "url": "https://explore.skillbuilder.aws/learn",
+        "platform": "AWS"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "AWS Free Tier",
+        "url": "https://aws.amazon.com/free/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Serverless App",
+        "description": "Deploy a serverless function with Lambda"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "AWS Full Course",
+        "url": "https://www.youtube.com/watch?v=3hLmDSczYE0",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "skill": "Data Structures",
+    "description": "Data structures organize and store data efficiently.",
+    "difficulty": "intermediate",
+    "estimatedHours": 40,
+    "officialDocs": "https://www.geeksforgeeks.org/data-structures/",
+    "freeCourses": [
+      {
+        "title": "DSA Course",
+        "url": "https://www.geeksforgeeks.org/data-structures/",
+        "platform": "GeeksforGeeks"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Pathfinder",
+        "description": "Implement BFS/DFS for pathfinding"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "DSA Full Course",
+        "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "skill": "Algorithms",
+    "description": "Algorithms are step-by-step problem-solving procedures.",
+    "difficulty": "intermediate",
+    "estimatedHours": 45,
+    "officialDocs": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+    "freeCourses": [
+      {
+        "title": "Algorithms",
+        "url": "https://www.coursera.org/learn/algorithms-part1",
+        "platform": "Coursera"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Sorting Visualizer",
+        "description": "Build a sorting algorithm visualizer"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Algorithms Course",
+        "url": "https://www.youtube.com/watch?v=8hly31xKli0",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "skill": "MongoDB",
+    "description": "MongoDB is a NoSQL document database.",
+    "difficulty": "intermediate",
+    "estimatedHours": 20,
+    "officialDocs": "https://www.mongodb.com/docs/",
+    "freeCourses": [
+      {
+        "title": "MongoDB University",
+        "url": "https://university.mongodb.com/",
+        "platform": "MongoDB"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "MongoDB Playground",
+        "url": "https://www.mongodb.com/playground"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Blog API",
+        "description": "Build a blog API with MongoDB and Express"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "MongoDB Tutorial",
+        "url": "https://www.youtube.com/watch?v=ofme2o29ngU",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "skill": "PostgreSQL",
+    "description": "PostgreSQL is an advanced relational database.",
+    "difficulty": "intermediate",
+    "estimatedHours": 25,
+    "officialDocs": "https://www.postgresql.org/docs/",
+    "freeCourses": [
+      {
+        "title": "PostgreSQL Tutorial",
+        "url": "https://www.postgresqltutorial.com/",
+        "platform": "PostgreSQL Tutorial"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "PG Exercises",
+        "url": "https://pgexercises.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Inventory System",
+        "description": "Build an inventory management system"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "PostgreSQL Crash Course",
+        "url": "https://www.youtube.com/watch?v=qw--VYLpxG4",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "skill": "CSS",
+    "description": "CSS styles and layouts web pages.",
+    "difficulty": "beginner",
+    "estimatedHours": 30,
+    "officialDocs": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "freeCourses": [
+      {
+        "title": "CSS Tutorial",
+        "url": "https://www.freecodecamp.org/learn/responsive-web-design/",
+        "platform": "FreeCodeCamp"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "CSS Battle",
+        "url": "https://cssbattle.dev/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Portfolio Site",
+        "description": "Build a responsive portfolio site"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "CSS Full Course",
+        "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "skill": "HTML",
+    "description": "HTML is the standard markup language for web pages.",
+    "difficulty": "beginner",
+    "estimatedHours": 15,
+    "officialDocs": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "freeCourses": [
+      {
+        "title": "HTML Tutorial",
+        "url": "https://www.freecodecamp.org/learn/responsive-web-design/",
+        "platform": "FreeCodeCamp"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "MDN HTML",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Landing Page",
+        "description": "Build a product landing page"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "HTML Full Course",
+        "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "skill": "Tailwind CSS",
+    "description": "Tailwind is a utility-first CSS framework.",
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "officialDocs": "https://tailwindcss.com/docs",
+    "freeCourses": [
+      {
+        "title": "Tailwind Tutorial",
+        "url": "https://tailwindcss.com/docs/installation",
+        "platform": "Tailwind"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Tailwind Play",
+        "url": "https://play.tailwindcss.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Dashboard UI",
+        "description": "Build a dashboard layout with Tailwind"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Tailwind Crash Course",
+        "url": "https://www.youtube.com/watch?v=UBOj6rqRUME",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "skill": "Next.js",
+    "description": "Next.js is a React framework for production apps.",
+    "difficulty": "intermediate",
+    "estimatedHours": 40,
+    "officialDocs": "https://nextjs.org/docs",
+    "freeCourses": [
+      {
+        "title": "Next.js Tutorial",
+        "url": "https://nextjs.org/learn",
+        "platform": "Next.js"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Vercel",
+        "url": "https://vercel.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Blog Platform",
+        "description": "Build a markdown blog with Next.js"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Next.js Full Course",
+        "url": "https://www.youtube.com/watch?v=KjY94sAKnWg",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "skill": "Express.js",
+    "description": "Express is a web framework for Node.js.",
+    "difficulty": "intermediate",
+    "estimatedHours": 25,
+    "officialDocs": "https://expressjs.com/",
+    "freeCourses": [
+      {
+        "title": "Express Tutorial",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs",
+        "platform": "MDN"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Glitch",
+        "url": "https://glitch.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "URL Shortener",
+        "description": "Build a URL shortener service"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Express Crash Course",
+        "url": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "skill": "GraphQL",
+    "description": "GraphQL is a query language for APIs.",
+    "difficulty": "advanced",
+    "estimatedHours": 25,
+    "officialDocs": "https://graphql.org/learn/",
+    "freeCourses": [
+      {
+        "title": "GraphQL Tutorial",
+        "url": "https://www.howtographql.com/",
+        "platform": "HowToGraphQL"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "GraphQL Playground",
+        "url": "https://www.graphqlbin.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "GraphQL API",
+        "description": "Build a GraphQL API for a library"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "GraphQL Crash Course",
+        "url": "https://www.youtube.com/watch?v=ZQL7tL2S0oQ",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "skill": "Kubernetes",
+    "description": "Kubernetes orchestrates containerized applications.",
+    "difficulty": "advanced",
+    "estimatedHours": 40,
+    "officialDocs": "https://kubernetes.io/docs/",
+    "freeCourses": [
+      {
+        "title": "Kubernetes Basics",
+        "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+        "platform": "Kubernetes"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Play with Kubernetes",
+        "url": "https://labs.play-with-k8s.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "K8s Deployment",
+        "description": "Deploy a microservice on Kubernetes"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Kubernetes Tutorial",
+        "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "skill": "CI/CD",
+    "description": "Continuous Integration and Continuous Deployment.",
+    "difficulty": "intermediate",
+    "estimatedHours": 20,
+    "officialDocs": "https://docs.github.com/en/actions",
+    "freeCourses": [
+      {
+        "title": "GitHub Actions",
+        "url": "https://docs.github.com/en/actions/learn-github-actions",
+        "platform": "GitHub"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "GitHub Actions",
+        "url": "https://github.com/features/actions"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "CI Pipeline",
+        "description": "Set up a CI pipeline for a Node.js app"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "CI/CD Explained",
+        "url": "https://www.youtube.com/watch?v=scEDHsr3YYg",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "skill": "Machine Learning",
+    "description": "Machine Learning enables systems to learn from data.",
+    "difficulty": "advanced",
+    "estimatedHours": 60,
+    "officialDocs": "https://scikit-learn.org/stable/",
+    "freeCourses": [
+      {
+        "title": "ML Course",
+        "url": "https://www.coursera.org/learn/machine-learning",
+        "platform": "Coursera"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Kaggle",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Predict Model",
+        "description": "Build a house price prediction model"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "ML Full Course",
+        "url": "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "skill": "Data Science",
+    "description": "Data Science extracts insights from data.",
+    "difficulty": "intermediate",
+    "estimatedHours": 50,
+    "officialDocs": "https://pandas.pydata.org/docs/",
+    "freeCourses": [
+      {
+        "title": "Data Science",
+        "url": "https://www.kaggle.com/learn",
+        "platform": "Kaggle"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Kaggle",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "EDA Project",
+        "description": "Perform exploratory data analysis on a dataset"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Data Science Full Course",
+        "url": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "skill": "Redis",
+    "description": "Redis is an in-memory data structure store.",
+    "difficulty": "intermediate",
+    "estimatedHours": 15,
+    "officialDocs": "https://redis.io/docs/",
+    "freeCourses": [
+      {
+        "title": "Redis Tutorial",
+        "url": "https://redis.io/learn/",
+        "platform": "Redis"
+      }
+    ],
+    "practicePlatforms": [
+      {
+        "name": "Redis Playground",
+        "url": "https://try.redis.io/"
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Caching Layer",
+        "description": "Add Redis caching to a Node.js app"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Redis Crash Course",
+        "url": "https://www.youtube.com/watch?v=OqCK0ASnavw",
+        "platform": "YouTube"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "skill": "Nginx",
+    "description": "Nginx is a web server and reverse proxy.",
+    "difficulty": "intermediate",
+    "estimatedHours": 15,
+    "officialDocs": "https://nginx.org/en/docs/",
+    "freeCourses": [
+      {
+        "title": "Nginx Tutorial",
+        "url": "https://www.nginx.com/resources/wiki/",
+        "platform": "Nginx"
+      }
+    ],
+    "practicePlatforms": [],
+    "miniProjects": [
+      {
+        "title": "Reverse Proxy",
+        "description": "Set up Nginx as a reverse proxy for Node.js"
+      }
+    ],
+    "videoTutorials": [
+      {
+        "title": "Nginx Crash Course",
+        "url": "https://www.youtube.com/watch?v=9t9Mp0BGnyI",
+        "platform": "YouTube"
+      }
+    ]
+  }
+]

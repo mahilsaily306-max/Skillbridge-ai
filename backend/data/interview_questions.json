@@ -1,0 +1,177 @@
+[
+  {
+    "id": "q1",
+    "type": "hr",
+    "difficulty": "beginner",
+    "question": "Tell me about yourself.",
+    "answer": "Start with your current role, then your most relevant experience, and end with why you are interested in this position."
+  },
+  {
+    "id": "q2",
+    "type": "hr",
+    "difficulty": "beginner",
+    "question": "Why do you want to work here?",
+    "answer": "Research the company, mention specific projects or values that resonate with you, and connect your skills to their needs."
+  },
+  {
+    "id": "q3",
+    "type": "hr",
+    "difficulty": "intermediate",
+    "question": "What are your strengths and weaknesses?",
+    "answer": "Pick a strength relevant to the role. For weaknesses, mention one you are actively improving with a concrete example."
+  },
+  {
+    "id": "q4",
+    "type": "hr",
+    "difficulty": "intermediate",
+    "question": "Where do you see yourself in 5 years?",
+    "answer": "Show ambition aligned with the company. Mention skills you want to develop and roles you aspire to."
+  },
+  {
+    "id": "q5",
+    "type": "hr",
+    "difficulty": "advanced",
+    "question": "Tell me about a time you handled a conflict at work.",
+    "answer": "Use the STAR method: Situation, Task, Action, Result."
+  },
+  {
+    "id": "q6",
+    "type": "technical",
+    "difficulty": "beginner",
+    "question": "What is the difference between let, const, and var in JavaScript?",
+    "answer": "var is function-scoped, let and const are block-scoped. const cannot be reassigned."
+  },
+  {
+    "id": "q7",
+    "type": "technical",
+    "difficulty": "beginner",
+    "question": "What is the DOM?",
+    "answer": "The Document Object Model (DOM) is a programming interface for HTML documents."
+  },
+  {
+    "id": "q8",
+    "type": "technical",
+    "difficulty": "intermediate",
+    "question": "Explain the concept of closures in JavaScript.",
+    "answer": "A closure is a function that retains access to its outer scope even after the outer function has returned."
+  },
+  {
+    "id": "q9",
+    "type": "technical",
+    "difficulty": "intermediate",
+    "question": "What is RESTful API design?",
+    "answer": "REST APIs use HTTP methods (GET, POST, PUT, DELETE) to perform CRUD operations on resources identified by URLs."
+  },
+  {
+    "id": "q10",
+    "type": "technical",
+    "difficulty": "advanced",
+    "question": "How does the Event Loop work in Node.js?",
+    "answer": "Node.js uses a single-threaded event loop to handle async operations by offloading them to the system kernel when possible."
+  },
+  {
+    "id": "q11",
+    "type": "technical",
+    "difficulty": "intermediate",
+    "question": "What is the difference between SQL and NoSQL databases?",
+    "answer": "SQL databases are relational with fixed schemas; NoSQL databases are non-relational with flexible schemas."
+  },
+  {
+    "id": "q12",
+    "type": "technical",
+    "difficulty": "advanced",
+    "question": "Explain how Docker containers work.",
+    "answer": "Docker containers package an application with its dependencies into a lightweight, portable unit that runs consistently across environments."
+  },
+  {
+    "id": "q13",
+    "type": "coding",
+    "difficulty": "beginner",
+    "question": "Write a function to reverse a string.",
+    "answer": "function reverseString(str) { return str.split(\"\").reverse().join(\"\"); }"
+  },
+  {
+    "id": "q14",
+    "type": "coding",
+    "difficulty": "intermediate",
+    "question": "Write a function to check if a string is a palindrome.",
+    "answer": "function isPalindrome(str) { const cleaned = str.toLowerCase().replace(/[^a-z0-9]/g, \"\"); return cleaned === cleaned.split(\"\").reverse().join(\"\"); }"
+  },
+  {
+    "id": "q15",
+    "type": "coding",
+    "difficulty": "intermediate",
+    "question": "Find the two numbers in an array that sum to a target.",
+    "answer": "Use a hash map to store complements: for each num, check if target - num exists in the map."
+  },
+  {
+    "id": "q16",
+    "type": "coding",
+    "difficulty": "advanced",
+    "question": "Implement a binary search algorithm.",
+    "answer": "function binarySearch(arr, target) { let l=0, r=arr.length-1; while(l<=r) { const mid = Math.floor((l+r)/2); if(arr[mid]===target) return mid; if(arr[mid]<target) l=mid+1; else r=mid-1; } return -1; }"
+  },
+  {
+    "id": "q17",
+    "type": "scenario",
+    "difficulty": "beginner",
+    "question": "You receive a bug report on Friday at 4:55 PM. What do you do?",
+    "answer": "Assess severity. If critical, fix it immediately. If minor, triage it for next week."
+  },
+  {
+    "id": "q18",
+    "type": "scenario",
+    "difficulty": "intermediate",
+    "question": "Your team misses a sprint deadline. How do you handle it?",
+    "answer": "Analyze the root cause, adjust future estimates, and communicate transparently with stakeholders."
+  },
+  {
+    "id": "q19",
+    "type": "scenario",
+    "difficulty": "advanced",
+    "question": "A production system goes down. Walk through your response.",
+    "answer": "1) Identify and mitigate immediate impact. 2) Investigate root cause. 3) Apply fix. 4) Document incident. 5) Implement preventative measures."
+  },
+  {
+    "id": "q20",
+    "type": "behavioral",
+    "difficulty": "beginner",
+    "question": "Describe a project you are proud of.",
+    "answer": "Use STAR method. Focus on your contribution and the impact."
+  },
+  {
+    "id": "q21",
+    "type": "behavioral",
+    "difficulty": "intermediate",
+    "question": "Tell me about a time you failed.",
+    "answer": "Be honest. Focus on what you learned and how you improved."
+  },
+  {
+    "id": "q22",
+    "type": "behavioral",
+    "difficulty": "advanced",
+    "question": "Describe a time you had to learn a new technology quickly.",
+    "answer": "Explain your learning process, resources used, and how you applied the new technology successfully."
+  },
+  {
+    "id": "q23",
+    "type": "technical",
+    "difficulty": "beginner",
+    "question": "What is Git and why is it used?",
+    "answer": "Git is a distributed version control system used to track changes in source code during software development."
+  },
+  {
+    "id": "q24",
+    "type": "technical",
+    "difficulty": "intermediate",
+    "question": "What is the difference between TCP and UDP?",
+    "answer": "TCP is connection-oriented with guaranteed delivery; UDP is connectionless with no delivery guarantee but lower latency."
+  },
+  {
+    "id": "q25",
+    "type": "technical",
+    "difficulty": "advanced",
+    "question": "What is eventual consistency in distributed systems?",
+    "answer": "Eventual consistency guarantees that if no new updates are made to a data item, all accesses will return the last updated value eventually."
+  }
+]

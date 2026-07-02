@@ -1,0 +1,1171 @@
+[
+  {
+    "id": "f1c21b57-f0ad-4310-819a-7b39c0a4b244",
+    "userId": "seed",
+    "title": "Frontend Developer",
+    "company": "TechCorp Inc.",
+    "rawText": "Job Title: Frontend Developer\nCompany: TechCorp Inc.\nLocation: San Francisco, CA\n\nWe are looking for a Frontend Developer to join our team.\n\nResponsibilities:\n- Build responsive web applications using React\n- Implement UI components with TypeScript and Tailwind CSS\n- Collaborate with backend teams on REST API integration\n- Write unit tests and ensure code quality\n- Optimize applications for maximum performance\n\nQualifications:\n- 3+ years of experience with React\n- Strong knowledge of TypeScript, HTML, CSS\n- Experience with Next.js is a plus\n- Familiarity with Git version control\n- Understanding of responsive design principles\n- Excellent problem-solving skills\n- Strong communication and teamwork abilities\n\nRequired Skills: React, TypeScript, JavaScript, HTML, CSS, Git, REST APIs, Tailwind CSS\nPreferred Skills: Next.js, GraphQL, Docker, CI/CD, Testing",
+    "parsedData": {
+      "title": "Frontend Developer",
+      "company": "TechCorp Inc.",
+      "location": "San Francisco, CA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Docker",
+        "Git",
+        "REST APIs",
+        "CSS",
+        "HTML",
+        "Tailwind CSS",
+        "Next.js",
+        "GraphQL",
+        "Java",
+        "CI/CD",
+        "Excel"
+      ],
+      "responsibilities": [
+        "Build responsive web applications using React",
+        "Implement UI components with TypeScript and Tailwind CSS",
+        "Collaborate with backend teams on REST API integration",
+        "Write unit tests and ensure code quality",
+        "Optimize applications for maximum performance"
+      ],
+      "qualifications": [
+        "3+ years of experience with React",
+        "Strong knowledge of TypeScript, HTML, CSS",
+        "Experience with Next.js is a plus",
+        "Familiarity with Git version control",
+        "Understanding of responsive design principles",
+        "Excellent problem-solving skills",
+        "Strong communication and teamwork abilities"
+      ],
+      "experience": "- 3+ years of experience with React",
+      "softSkills": [
+        "Communication",
+        "Teamwork"
+      ],
+      "tools": [
+        "JavaScript",
+        "TypeScript",
+        "REST APIs",
+        "CSS",
+        "HTML",
+        "Tailwind CSS",
+        "Next.js",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "technologies": [
+        "React",
+        "Docker",
+        "Git",
+        "Java",
+        "Excel"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.509Z",
+    "updatedAt": "2026-07-02T16:38:12.510Z"
+  },
+  {
+    "id": "c6a13393-691b-48d4-a3ff-29d9efb7f3f0",
+    "userId": "seed",
+    "title": "Backend Developer",
+    "company": "DataFlow Systems",
+    "rawText": "Job Title: Backend Developer\nCompany: DataFlow Systems\nLocation: New York, NY\n\nWe need a skilled Backend Developer to build scalable services.\n\nResponsibilities:\n- Design and develop RESTful APIs using Node.js and Express.js\n- Create and optimize SQL and MongoDB database schemas\n- Implement authentication and authorization\n- Write clean, maintainable, and well-documented code\n- Participate in code reviews and architectural discussions\n\nQualifications:\n- 4+ years of backend development experience\n- Proficiency in Node.js and Express.js\n- Strong SQL skills with PostgreSQL or MySQL\n- Experience with MongoDB\n- Knowledge of Docker and cloud services\n- Understanding of CI/CD pipelines\n- Leadership and mentoring skills\n\nRequired Skills: Node.js, Express.js, SQL, PostgreSQL, MongoDB, Docker, REST APIs\nPreferred Skills: AWS, Kubernetes, Redis, GraphQL, TypeScript",
+    "parsedData": {
+      "title": "Backend Developer",
+      "company": "DataFlow Systems",
+      "location": "New York, NY",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "TypeScript",
+        "Node.js",
+        "SQL",
+        "Docker",
+        "REST APIs",
+        "AWS",
+        "MongoDB",
+        "PostgreSQL",
+        "Express.js",
+        "GraphQL",
+        "Go",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "responsibilities": [
+        "Design and develop RESTful APIs using Node.js and Express.js",
+        "Create and optimize SQL and MongoDB database schemas",
+        "Implement authentication and authorization",
+        "Write clean, maintainable, and well-documented code",
+        "Participate in code reviews and architectural discussions"
+      ],
+      "qualifications": [
+        "4+ years of backend development experience",
+        "Proficiency in Node.js and Express.js",
+        "Strong SQL skills with PostgreSQL or MySQL",
+        "Experience with MongoDB",
+        "Knowledge of Docker and cloud services",
+        "Understanding of CI/CD pipelines",
+        "Leadership and mentoring skills"
+      ],
+      "experience": "- 4+ years of backend development experience",
+      "softSkills": [
+        "Leadership",
+        "Mentoring"
+      ],
+      "tools": [
+        "TypeScript",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "AWS",
+        "MongoDB",
+        "PostgreSQL",
+        "Express.js",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "technologies": [
+        "Docker",
+        "Go",
+        "Kubernetes"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.513Z",
+    "updatedAt": "2026-07-02T16:38:12.513Z"
+  },
+  {
+    "id": "e4458603-9e0c-4ec5-b514-ddf1a8fac866",
+    "userId": "seed",
+    "title": "Full Stack Developer",
+    "company": "Webify Studio",
+    "rawText": "Job Title: Full Stack Developer\nCompany: Webify Studio\nLocation: Austin, TX\n\nJoin our dynamic team building modern web applications.\n\nResponsibilities:\n- Develop frontend features with React and Next.js\n- Build and maintain backend services with Node.js\n- Design database schemas and write complex queries\n- Deploy and monitor applications on cloud platforms\n- Collaborate with designers to implement pixel-perfect UIs\n\nQualifications:\n- 3+ years of full stack development experience\n- Strong proficiency in React, Node.js, TypeScript\n- Experience with SQL and NoSQL databases\n- Familiarity with AWS or similar cloud providers\n- Knowledge of Docker and containerization\n- Time management and adaptability\n\nRequired Skills: React, Node.js, TypeScript, JavaScript, SQL, PostgreSQL, MongoDB, Docker, AWS, REST APIs\nPreferred Skills: Next.js, Tailwind CSS, GraphQL, Kubernetes, CI/CD",
+    "parsedData": {
+      "title": "Full Stack Developer",
+      "company": "Webify Studio",
+      "location": "Austin, TX",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Docker",
+        "REST APIs",
+        "AWS",
+        "MongoDB",
+        "PostgreSQL",
+        "CSS",
+        "Tailwind CSS",
+        "Next.js",
+        "GraphQL",
+        "Java",
+        "Go",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "responsibilities": [
+        "Develop frontend features with React and Next.js",
+        "Build and maintain backend services with Node.js",
+        "Design database schemas and write complex queries",
+        "Deploy and monitor applications on cloud platforms",
+        "Collaborate with designers to implement pixel-perfect UIs"
+      ],
+      "qualifications": [
+        "3+ years of full stack development experience",
+        "Strong proficiency in React, Node.js, TypeScript",
+        "Experience with SQL and NoSQL databases",
+        "Familiarity with AWS or similar cloud providers",
+        "Knowledge of Docker and containerization",
+        "Time management and adaptability"
+      ],
+      "experience": "- 3+ years of full stack development experience",
+      "softSkills": [
+        "Time Management",
+        "Adaptability"
+      ],
+      "tools": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "AWS",
+        "MongoDB",
+        "PostgreSQL",
+        "CSS",
+        "Tailwind CSS",
+        "Next.js",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "technologies": [
+        "React",
+        "Docker",
+        "Java",
+        "Go",
+        "Kubernetes"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.517Z",
+    "updatedAt": "2026-07-02T16:38:12.517Z"
+  },
+  {
+    "id": "07f51662-37ac-43e5-a947-4fd1d3ca948b",
+    "userId": "seed",
+    "title": "Data Scientist",
+    "company": "Insight Analytics",
+    "rawText": "Job Title: Data Scientist\nCompany: Insight Analytics\nLocation: Seattle, WA\n\nWe are seeking a Data Scientist to extract insights from complex datasets.\n\nResponsibilities:\n- Analyze large datasets using Python and SQL\n- Build and deploy machine learning models\n- Create data visualizations and dashboards\n- Present findings to stakeholders\n- Design experiments and A/B tests\n\nQualifications:\n- 2+ years of data science experience\n- Proficiency in Python, Pandas, NumPy\n- Strong SQL skills\n- Experience with machine learning frameworks\n- Knowledge of data visualization tools\n- Critical thinking and creativity\n\nRequired Skills: Python, SQL, Machine Learning, Data Science, Pandas, NumPy\nPreferred Skills: TensorFlow, PyTorch, Tableau, AWS, Deep Learning",
+    "parsedData": {
+      "title": "Data Scientist",
+      "company": "Insight Analytics",
+      "location": "Seattle, WA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "SQL",
+        "AWS",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Data Science",
+        "Pandas",
+        "NumPy",
+        "Tableau"
+      ],
+      "responsibilities": [
+        "Analyze large datasets using Python and SQL",
+        "Build and deploy machine learning models",
+        "Create data visualizations and dashboards",
+        "Present findings to stakeholders",
+        "Design experiments and A/B tests"
+      ],
+      "qualifications": [
+        "2+ years of data science experience",
+        "Proficiency in Python, Pandas, NumPy",
+        "Strong SQL skills",
+        "Experience with machine learning frameworks",
+        "Knowledge of data visualization tools",
+        "Critical thinking and creativity"
+      ],
+      "experience": "- 2+ years of data science experience",
+      "softSkills": [
+        "Critical Thinking",
+        "Creativity"
+      ],
+      "tools": [
+        "SQL",
+        "AWS",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Data Science",
+        "NumPy"
+      ],
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Tableau"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.520Z",
+    "updatedAt": "2026-07-02T16:38:12.520Z"
+  },
+  {
+    "id": "cfcae925-6537-4fe4-bb09-9cbafc326e8f",
+    "userId": "seed",
+    "title": "DevOps Engineer",
+    "company": "CloudScale Solutions",
+    "rawText": "Job Title: DevOps Engineer\nCompany: CloudScale Solutions\nLocation: Chicago, IL\n\nWe are looking for a DevOps Engineer to streamline our infrastructure.\n\nResponsibilities:\n- Manage CI/CD pipelines using GitHub Actions and Jenkins\n- Containerize applications with Docker and orchestrate with Kubernetes\n- Monitor system performance and troubleshoot issues\n- Implement infrastructure as code using Terraform\n- Ensure system security and compliance\n\nQualifications:\n- 3+ years of DevOps experience\n- Strong knowledge of Docker and Kubernetes\n- Experience with cloud platforms (AWS preferred)\n- Familiarity with CI/CD tools\n- Proficiency in Linux administration\n- Problem solving and teamwork\n\nRequired Skills: Docker, Kubernetes, AWS, CI/CD, Jenkins, Terraform, Linux, Git\nPreferred Skills: Python, Ansible, Prometheus, Grafana, Helm",
+    "parsedData": {
+      "title": "DevOps Engineer",
+      "company": "CloudScale Solutions",
+      "location": "Chicago, IL",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "Docker",
+        "Git",
+        "AWS",
+        "Go",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Jenkins",
+        "Linux"
+      ],
+      "responsibilities": [
+        "Manage CI/CD pipelines using GitHub Actions and Jenkins",
+        "Containerize applications with Docker and orchestrate with Kubernetes",
+        "Monitor system performance and troubleshoot issues",
+        "Implement infrastructure as code using Terraform",
+        "Ensure system security and compliance"
+      ],
+      "qualifications": [
+        "3+ years of DevOps experience",
+        "Strong knowledge of Docker and Kubernetes",
+        "Experience with cloud platforms (AWS preferred)",
+        "Familiarity with CI/CD tools",
+        "Proficiency in Linux administration",
+        "Problem solving and teamwork"
+      ],
+      "experience": "- 3+ years of DevOps experience",
+      "softSkills": [
+        "Problem Solving",
+        "Teamwork"
+      ],
+      "tools": [
+        "AWS",
+        "CI/CD"
+      ],
+      "technologies": [
+        "Python",
+        "Docker",
+        "Git",
+        "Go",
+        "Kubernetes",
+        "Terraform",
+        "Jenkins",
+        "Linux"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.522Z",
+    "updatedAt": "2026-07-02T16:38:12.522Z"
+  },
+  {
+    "id": "8585ec46-84e4-4725-9c3a-be844e271ebd",
+    "userId": "seed",
+    "title": "Mobile Developer (React Native)",
+    "company": "AppForge",
+    "rawText": "Job Title: React Native Developer\nCompany: AppForge\nLocation: Remote\n\nBuild cross-platform mobile applications for millions of users.\n\nResponsibilities:\n- Develop and maintain React Native applications\n- Implement pixel-perfect UIs for iOS and Android\n- Integrate with REST and GraphQL APIs\n- Optimize app performance and fix bugs\n- Collaborate with product and design teams\n\nQualifications:\n- 2+ years of React Native experience\n- Strong JavaScript/TypeScript skills\n- Understanding of mobile UI/UX principles\n- Experience with REST APIs\n- Knowledge of Git and CI/CD\n- Creativity and attention to detail\n\nRequired Skills: React Native, JavaScript, TypeScript, REST APIs, Git\nPreferred Skills: iOS Development, Android Development, GraphQL, Firebase, Expo",
+    "parsedData": {
+      "title": "React Native Developer",
+      "company": "AppForge",
+      "location": "Remote",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Git",
+        "REST APIs",
+        "GraphQL",
+        "Java",
+        "CI/CD"
+      ],
+      "responsibilities": [
+        "Develop and maintain React Native applications",
+        "Implement pixel-perfect UIs for iOS and Android",
+        "Integrate with REST and GraphQL APIs",
+        "Optimize app performance and fix bugs",
+        "Collaborate with product and design teams"
+      ],
+      "qualifications": [
+        "2+ years of React Native experience",
+        "Strong JavaScript/TypeScript skills",
+        "Understanding of mobile UI/UX principles",
+        "Experience with REST APIs",
+        "Knowledge of Git and CI/CD",
+        "Creativity and attention to detail"
+      ],
+      "experience": "- 2+ years of React Native experience",
+      "softSkills": [
+        "Creativity"
+      ],
+      "tools": [
+        "JavaScript",
+        "TypeScript",
+        "REST APIs",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "technologies": [
+        "React",
+        "Git",
+        "Java"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.525Z",
+    "updatedAt": "2026-07-02T16:38:12.525Z"
+  },
+  {
+    "id": "1a7c68fe-672a-4f05-b433-bc65464ab98c",
+    "userId": "seed",
+    "title": "Cloud Architect",
+    "company": "Enterprise Cloud Inc.",
+    "rawText": "Job Title: Cloud Architect\nCompany: Enterprise Cloud Inc.\nLocation: Boston, MA\n\nDesign and implement cloud-native architectures.\n\nResponsibilities:\n- Design scalable cloud infrastructure on AWS\n- Implement security best practices and compliance\n- Optimize cloud costs and resource utilization\n- Lead migration of on-premises systems to cloud\n- Mentor engineering team on cloud best practices\n\nQualifications:\n- 5+ years of cloud architecture experience\n- Deep expertise in AWS services\n- Knowledge of Azure or GCP is a plus\n- Experience with Terraform and Infrastructure as Code\n- Understanding of networking and security\n- Leadership and communication skills\n\nRequired Skills: AWS, Azure, GCP, Terraform, Docker, Kubernetes, Linux, Networking\nPreferred Skills: Python, Go, CI/CD, Security, Cost Optimization",
+    "parsedData": {
+      "title": "Cloud Architect",
+      "company": "Enterprise Cloud Inc.",
+      "location": "Boston, MA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "Docker",
+        "AWS",
+        "Go",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Linux"
+      ],
+      "responsibilities": [
+        "Design scalable cloud infrastructure on AWS",
+        "Implement security best practices and compliance",
+        "Optimize cloud costs and resource utilization",
+        "Lead migration of on-premises systems to cloud",
+        "Mentor engineering team on cloud best practices"
+      ],
+      "qualifications": [
+        "5+ years of cloud architecture experience",
+        "Deep expertise in AWS services",
+        "Knowledge of Azure or GCP is a plus",
+        "Experience with Terraform and Infrastructure as Code",
+        "Understanding of networking and security",
+        "Leadership and communication skills"
+      ],
+      "experience": "- 5+ years of cloud architecture experience",
+      "softSkills": [
+        "Communication",
+        "Leadership"
+      ],
+      "tools": [
+        "AWS",
+        "CI/CD"
+      ],
+      "technologies": [
+        "Python",
+        "Docker",
+        "Go",
+        "Kubernetes",
+        "Terraform",
+        "Linux"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.528Z",
+    "updatedAt": "2026-07-02T16:38:12.528Z"
+  },
+  {
+    "id": "9d1f651c-335c-4e7a-93d2-2b00d4d781e8",
+    "userId": "seed",
+    "title": "Machine Learning Engineer",
+    "company": "AI Innovations Lab",
+    "rawText": "Job Title: Machine Learning Engineer\nCompany: AI Innovations Lab\nLocation: San Jose, CA\n\nBuild production ML systems at scale.\n\nResponsibilities:\n- Design and implement ML pipelines\n- Train and deploy machine learning models\n- Build data processing systems\n- Monitor model performance in production\n- Research and implement new ML techniques\n\nQualifications:\n- 3+ years of ML engineering experience\n- Strong Python programming skills\n- Experience with TensorFlow or PyTorch\n- Knowledge of SQL and data processing\n- Understanding of MLOps practices\n- Problem solving and adaptability\n\nRequired Skills: Python, Machine Learning, TensorFlow, PyTorch, SQL, Docker, AWS\nPreferred Skills: NLP, Computer Vision, Kubernetes, Kubeflow, Spark",
+    "parsedData": {
+      "title": "Machine Learning Engineer",
+      "company": "AI Innovations Lab",
+      "location": "San Jose, CA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch",
+        "NLP"
+      ],
+      "responsibilities": [
+        "Design and implement ML pipelines",
+        "Train and deploy machine learning models",
+        "Build data processing systems",
+        "Monitor model performance in production",
+        "Research and implement new ML techniques"
+      ],
+      "qualifications": [
+        "3+ years of ML engineering experience",
+        "Strong Python programming skills",
+        "Experience with TensorFlow or PyTorch",
+        "Knowledge of SQL and data processing",
+        "Understanding of MLOps practices",
+        "Problem solving and adaptability"
+      ],
+      "experience": "- 3+ years of ML engineering experience",
+      "softSkills": [
+        "Problem Solving",
+        "Adaptability"
+      ],
+      "tools": [
+        "SQL",
+        "AWS",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch",
+        "NLP"
+      ],
+      "technologies": [
+        "Python",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.531Z",
+    "updatedAt": "2026-07-02T16:38:12.531Z"
+  },
+  {
+    "id": "de163ba7-efe7-483e-b9b7-6e51cb3cca42",
+    "userId": "seed",
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet Defense",
+    "rawText": "Job Title: Cybersecurity Analyst\nCompany: SecureNet Defense\nLocation: Washington, DC\n\nProtect our infrastructure from cyber threats.\n\nResponsibilities:\n- Monitor security events and investigate incidents\n- Conduct vulnerability assessments and penetration testing\n- Implement security policies and procedures\n- Manage firewalls and intrusion detection systems\n- Perform security audits and compliance checks\n\nQualifications:\n- 3+ years of cybersecurity experience\n- Knowledge of network security protocols\n- Experience with security tools (SIEM, IDS/IPS)\n- Understanding of OWASP Top 10 vulnerabilities\n- Certifications (CISSP, CEH, Security+) preferred\n- Critical thinking and attention to detail\n\nRequired Skills: Linux, Networking, Security, Python\nPreferred Skills: AWS Security, Azure Security, Kubernetes Security, Terraform",
+    "parsedData": {
+      "title": "Cybersecurity Analyst",
+      "company": "SecureNet Defense",
+      "location": "Washington, DC",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Linux"
+      ],
+      "responsibilities": [
+        "Monitor security events and investigate incidents",
+        "Conduct vulnerability assessments and penetration testing",
+        "Implement security policies and procedures",
+        "Manage firewalls and intrusion detection systems",
+        "Perform security audits and compliance checks"
+      ],
+      "qualifications": [
+        "3+ years of cybersecurity experience",
+        "Knowledge of network security protocols",
+        "Experience with security tools (SIEM, IDS/IPS)",
+        "Understanding of OWASP Top 10 vulnerabilities",
+        "Certifications (CISSP, CEH, Security+) preferred",
+        "Critical thinking and attention to detail"
+      ],
+      "experience": "- 3+ years of cybersecurity experience",
+      "softSkills": [
+        "Critical Thinking"
+      ],
+      "tools": [
+        "AWS"
+      ],
+      "technologies": [
+        "Python",
+        "Kubernetes",
+        "Terraform",
+        "Linux"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.534Z",
+    "updatedAt": "2026-07-02T16:38:12.534Z"
+  },
+  {
+    "id": "a9681fb3-0c3c-4bc5-a96d-2ed404b66d03",
+    "userId": "seed",
+    "title": "Product Manager",
+    "company": "GrowthStage Products",
+    "rawText": "Job Title: Product Manager\nCompany: GrowthStage Products\nLocation: Denver, CO\n\nDrive product strategy and execution.\n\nResponsibilities:\n- Define product vision, strategy, and roadmap\n- Gather and prioritize product requirements\n- Work closely with engineering, design, and marketing\n- Analyze market trends and competitive landscape\n- Measure product performance and iterate\n\nQualifications:\n- 3+ years of product management experience\n- Understanding of Agile and Scrum methodologies\n- Excellent communication and leadership skills\n- Data-driven decision making ability\n- Technical background preferred\n- Teamwork and collaboration\n\nRequired Skills: Agile, Scrum, Jira, Communication, Leadership, Problem Solving\nPreferred Skills: SQL, Data Analysis, User Research, Figma, A/B Testing",
+    "parsedData": {
+      "title": "Product Manager",
+      "company": "GrowthStage Products",
+      "location": "Denver, CO",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "SQL",
+        "Agile",
+        "Scrum",
+        "Jira",
+        "Data Analysis",
+        "Excel"
+      ],
+      "responsibilities": [
+        "Define product vision, strategy, and roadmap"
+      ],
+      "qualifications": [
+        "Work closely with engineering, design, and marketing",
+        "Analyze market trends and competitive landscape",
+        "Measure product performance and iterate",
+        "3+ years of product management experience",
+        "Understanding of Agile and Scrum methodologies",
+        "Excellent communication and leadership skills",
+        "Data-driven decision making ability",
+        "Technical background preferred",
+        "Teamwork and collaboration"
+      ],
+      "experience": "- 3+ years of product management experience",
+      "softSkills": [
+        "Communication",
+        "Leadership",
+        "Problem Solving",
+        "Teamwork",
+        "Collaboration",
+        "Decision Making"
+      ],
+      "tools": [
+        "SQL",
+        "Data Analysis"
+      ],
+      "technologies": [
+        "Agile",
+        "Scrum",
+        "Jira",
+        "Excel"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.537Z",
+    "updatedAt": "2026-07-02T16:38:12.537Z"
+  },
+  {
+    "id": "cc56a115-5d4a-46d6-b106-6353592de6f4",
+    "userId": "seed",
+    "title": "Data Engineer",
+    "company": "BigData Corp",
+    "rawText": "Job Title: Data Engineer\nCompany: BigData Corp\nLocation: Atlanta, GA\n\nBuild and maintain data infrastructure at scale.\n\nResponsibilities:\n- Design and build data pipelines using Python and SQL\n- Manage data warehouses and data lakes\n- Implement ETL processes\n- Optimize data storage and retrieval\n- Ensure data quality and reliability\n\nQualifications:\n- 3+ years of data engineering experience\n- Strong Python and SQL skills\n- Experience with Apache Spark or similar\n- Knowledge of cloud data services\n- Understanding of data modeling\n- Problem solving and teamwork\n\nRequired Skills: Python, SQL, Apache Spark, AWS, Docker, Data Modeling, ETL\nPreferred Skills: Airflow, Kafka, Snowflake, dbt, Kubernetes",
+    "parsedData": {
+      "title": "Data Engineer",
+      "company": "BigData Corp",
+      "location": "Atlanta, GA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "SQL",
+        "Docker",
+        "AWS",
+        "Kubernetes"
+      ],
+      "responsibilities": [
+        "Design and build data pipelines using Python and SQL",
+        "Manage data warehouses and data lakes",
+        "Implement ETL processes",
+        "Optimize data storage and retrieval",
+        "Ensure data quality and reliability"
+      ],
+      "qualifications": [
+        "3+ years of data engineering experience",
+        "Strong Python and SQL skills",
+        "Experience with Apache Spark or similar",
+        "Knowledge of cloud data services",
+        "Understanding of data modeling",
+        "Problem solving and teamwork"
+      ],
+      "experience": "- 3+ years of data engineering experience",
+      "softSkills": [
+        "Problem Solving",
+        "Teamwork"
+      ],
+      "tools": [
+        "SQL",
+        "AWS"
+      ],
+      "technologies": [
+        "Python",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.539Z",
+    "updatedAt": "2026-07-02T16:38:12.539Z"
+  },
+  {
+    "id": "153027e7-1e6c-4f30-b9d4-4529fbbc3f21",
+    "userId": "seed",
+    "title": "QA Engineer",
+    "company": "QualityFirst Tech",
+    "rawText": "Job Title: QA Engineer\nCompany: QualityFirst Tech\nLocation: Remote\n\nEnsure software quality through comprehensive testing.\n\nResponsibilities:\n- Write and execute test plans and test cases\n- Automate testing processes using Selenium and Cypress\n- Perform manual and automated regression testing\n- Report bugs and track issues in Jira\n- Collaborate with developers to improve code quality\n\nQualifications:\n- 2+ years of QA engineering experience\n- Experience with automated testing tools\n- Knowledge of testing methodologies\n- Understanding of CI/CD pipelines\n- Attention to detail and communication\n- Critical thinking and creativity\n\nRequired Skills: Selenium, Cypress, JavaScript, Git, CI/CD, Jira, Agile\nPreferred Skills: Python, Docker, Performance Testing, Security Testing",
+    "parsedData": {
+      "title": "QA Engineer",
+      "company": "QualityFirst Tech",
+      "location": "Remote",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "Python",
+        "Docker",
+        "Git",
+        "Java",
+        "CI/CD",
+        "Agile",
+        "Jira"
+      ],
+      "responsibilities": [
+        "Write and execute test plans and test cases",
+        "Automate testing processes using Selenium and Cypress",
+        "Perform manual and automated regression testing",
+        "Report bugs and track issues in Jira",
+        "Collaborate with developers to improve code quality"
+      ],
+      "qualifications": [
+        "2+ years of QA engineering experience",
+        "Experience with automated testing tools",
+        "Knowledge of testing methodologies",
+        "Understanding of CI/CD pipelines",
+        "Attention to detail and communication",
+        "Critical thinking and creativity"
+      ],
+      "experience": "- 2+ years of QA engineering experience",
+      "softSkills": [
+        "Communication",
+        "Critical Thinking",
+        "Creativity"
+      ],
+      "tools": [
+        "JavaScript",
+        "CI/CD"
+      ],
+      "technologies": [
+        "Python",
+        "Docker",
+        "Git",
+        "Java",
+        "Agile",
+        "Jira"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.542Z",
+    "updatedAt": "2026-07-02T16:38:12.542Z"
+  },
+  {
+    "id": "7935e034-4915-413f-a383-f439e5f508d2",
+    "userId": "seed",
+    "title": "UI/UX Designer",
+    "company": "DesignCraft Studio",
+    "rawText": "Job Title: UI/UX Designer\nCompany: DesignCraft Studio\nLocation: Los Angeles, CA\n\nCreate beautiful and intuitive user experiences.\n\nResponsibilities:\n- Design user interfaces for web and mobile applications\n- Conduct user research and usability testing\n- Create wireframes, prototypes, and mockups\n- Collaborate with developers on implementation\n- Maintain and evolve design systems\n\nQualifications:\n- 2+ years of UI/UX design experience\n- Proficiency in Figma or Sketch\n- Understanding of design principles and typography\n- Knowledge of HTML and CSS is a plus\n- Excellent visual design skills\n- Creativity and communication\n\nRequired Skills: Figma, HTML, CSS, JavaScript, User Research, Prototyping\nPreferred Skills: React, Tailwind CSS, Motion Design, Accessibility",
+    "parsedData": {
+      "title": "UI/UX Designer",
+      "company": "DesignCraft Studio",
+      "location": "Los Angeles, CA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "React",
+        "CSS",
+        "HTML",
+        "Tailwind CSS",
+        "Java",
+        "Excel"
+      ],
+      "responsibilities": [
+        "Design user interfaces for web and mobile applications",
+        "Conduct user research and usability testing",
+        "Create wireframes, prototypes, and mockups",
+        "Collaborate with developers on implementation",
+        "Maintain and evolve design systems"
+      ],
+      "qualifications": [
+        "2+ years of UI/UX design experience",
+        "Proficiency in Figma or Sketch",
+        "Understanding of design principles and typography",
+        "Knowledge of HTML and CSS is a plus",
+        "Excellent visual design skills",
+        "Creativity and communication"
+      ],
+      "experience": "- 2+ years of UI/UX design experience",
+      "softSkills": [
+        "Communication",
+        "Creativity"
+      ],
+      "tools": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Tailwind CSS"
+      ],
+      "technologies": [
+        "React",
+        "Java",
+        "Excel"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.544Z",
+    "updatedAt": "2026-07-02T16:38:12.544Z"
+  },
+  {
+    "id": "06ef3c7e-6564-4a39-bc42-8abb288e6204",
+    "userId": "seed",
+    "title": "Technical Writer",
+    "company": "DocuPerfect",
+    "rawText": "Job Title: Technical Writer\nCompany: DocuPerfect\nLocation: Remote\n\nCreate clear and comprehensive technical documentation.\n\nResponsibilities:\n- Write and maintain API documentation\n- Create user guides and tutorials\n- Document system architectures and workflows\n- Collaborate with engineers and product managers\n- Ensure documentation accuracy and clarity\n\nQualifications:\n- 2+ years of technical writing experience\n- Excellent written communication skills\n- Ability to understand complex technical concepts\n- Experience with documentation tools\n- Knowledge of Markdown and Git\n- Attention to detail and organization\n\nRequired Skills: Communication, Writing, Git, Markdown, Documentation\nPreferred Skills: JavaScript, Python, REST APIs, HTML, CSS",
+    "parsedData": {
+      "title": "Technical Writer",
+      "company": "DocuPerfect",
+      "location": "Remote",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "Python",
+        "Git",
+        "REST APIs",
+        "CSS",
+        "HTML",
+        "Java",
+        "Excel"
+      ],
+      "responsibilities": [
+        "Write and maintain API documentation",
+        "Create user guides and tutorials",
+        "Document system architectures and workflows",
+        "Collaborate with engineers and product managers",
+        "Ensure documentation accuracy and clarity"
+      ],
+      "qualifications": [
+        "2+ years of technical writing experience",
+        "Excellent written communication skills",
+        "Ability to understand complex technical concepts",
+        "Experience with documentation tools",
+        "Knowledge of Markdown and Git",
+        "Attention to detail and organization"
+      ],
+      "experience": "- 2+ years of technical writing experience",
+      "softSkills": [
+        "Communication"
+      ],
+      "tools": [
+        "JavaScript",
+        "REST APIs",
+        "CSS",
+        "HTML"
+      ],
+      "technologies": [
+        "Python",
+        "Git",
+        "Java",
+        "Excel"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.546Z",
+    "updatedAt": "2026-07-02T16:38:12.546Z"
+  },
+  {
+    "id": "7aa1dfde-0e5b-473c-89aa-d08f03a1e749",
+    "userId": "seed",
+    "title": "Site Reliability Engineer",
+    "company": "ReliableOps",
+    "rawText": "Job Title: Site Reliability Engineer\nCompany: ReliableOps\nLocation: Seattle, WA\n\nEnsure reliability and performance of production systems.\n\nResponsibilities:\n- Monitor system health and respond to incidents\n- Automate operational tasks and improve efficiency\n- Perform root cause analysis for production issues\n- Implement SLOs, SLIs, and error budgets\n- Capacity planning and performance tuning\n\nQualifications:\n- 4+ years of SRE or DevOps experience\n- Strong Linux systems administration\n- Experience with monitoring tools (Prometheus, Grafana)\n- Knowledge of distributed systems\n- Programming skills in Python or Go\n- Problem solving and calm under pressure\n\nRequired Skills: Linux, Docker, Kubernetes, AWS, Prometheus, Grafana, Python\nPreferred Skills: Go, Terraform, CI/CD, Elasticsearch, Kafka",
+    "parsedData": {
+      "title": "Site Reliability Engineer",
+      "company": "ReliableOps",
+      "location": "Seattle, WA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "Docker",
+        "AWS",
+        "Go",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Linux"
+      ],
+      "responsibilities": [
+        "Monitor system health and respond to incidents",
+        "Automate operational tasks and improve efficiency",
+        "Perform root cause analysis for production issues",
+        "Implement SLOs, SLIs, and error budgets",
+        "Capacity planning and performance tuning"
+      ],
+      "qualifications": [
+        "4+ years of SRE or DevOps experience",
+        "Strong Linux systems administration",
+        "Experience with monitoring tools (Prometheus, Grafana)",
+        "Knowledge of distributed systems",
+        "Programming skills in Python or Go",
+        "Problem solving and calm under pressure"
+      ],
+      "experience": "- 4+ years of SRE or DevOps experience",
+      "softSkills": [
+        "Problem Solving"
+      ],
+      "tools": [
+        "AWS",
+        "CI/CD"
+      ],
+      "technologies": [
+        "Python",
+        "Docker",
+        "Go",
+        "Kubernetes",
+        "Terraform",
+        "Linux"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.549Z",
+    "updatedAt": "2026-07-02T16:38:12.549Z"
+  },
+  {
+    "id": "ed26f4d4-7d39-4a6e-bdae-15d136718af9",
+    "userId": "seed",
+    "title": "Blockchain Developer",
+    "company": "ChainLink Labs",
+    "rawText": "Job Title: Blockchain Developer\nCompany: ChainLink Labs\nLocation: Remote\n\nBuild decentralized applications on blockchain platforms.\n\nResponsibilities:\n- Develop and deploy smart contracts using Solidity\n- Build dApps with Web3.js and React\n- Design tokenomics and blockchain architectures\n- Conduct security audits of smart contracts\n- Stay current with blockchain innovations\n\nQualifications:\n- 2+ years of blockchain development\n- Strong Solidity programming skills\n- Experience with Ethereum and other L1/L2 chains\n- Understanding of Web3 technologies\n- Knowledge of cryptography fundamentals\n- Adaptability and continuous learning\n\nRequired Skills: Solidity, JavaScript, React, Web3, Ethereum, Smart Contracts\nPreferred Skills: TypeScript, Rust, Go, IPFS, DeFi, NFTs",
+    "parsedData": {
+      "title": "Blockchain Developer",
+      "company": "ChainLink Labs",
+      "location": "Remote",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Java",
+        "Go",
+        "Rust"
+      ],
+      "responsibilities": [
+        "Develop and deploy smart contracts using Solidity",
+        "Build dApps with Web3.js and React",
+        "Design tokenomics and blockchain architectures",
+        "Conduct security audits of smart contracts",
+        "Stay current with blockchain innovations"
+      ],
+      "qualifications": [
+        "2+ years of blockchain development",
+        "Strong Solidity programming skills",
+        "Experience with Ethereum and other L1/L2 chains",
+        "Understanding of Web3 technologies",
+        "Knowledge of cryptography fundamentals",
+        "Adaptability and continuous learning"
+      ],
+      "experience": "- Experience with Ethereum and other L1/L2 chains",
+      "softSkills": [
+        "Adaptability"
+      ],
+      "tools": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "technologies": [
+        "React",
+        "Java",
+        "Go",
+        "Rust"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.551Z",
+    "updatedAt": "2026-07-02T16:38:12.551Z"
+  },
+  {
+    "id": "55756740-a94f-4639-b25d-8e58551ec333",
+    "userId": "seed",
+    "title": "Systems Administrator",
+    "company": "InfraCore Services",
+    "rawText": "Job Title: Systems Administrator\nCompany: InfraCore Services\nLocation: Dallas, TX\n\nManage and maintain critical IT infrastructure.\n\nResponsibilities:\n- Install, configure, and maintain server systems\n- Manage network infrastructure and security\n- Perform system backups and disaster recovery\n- Troubleshoot hardware and software issues\n- Maintain documentation and compliance\n\nQualifications:\n- 3+ years of systems administration experience\n- Proficiency in Linux and Windows Server\n- Knowledge of networking concepts\n- Experience with virtualization (VMware, Hyper-V)\n- Scripting skills (Bash, PowerShell)\n- Time management and teamwork\n\nRequired Skills: Linux, Windows Server, Networking, Bash, Docker, Git\nPreferred Skills: AWS, Azure, Ansible, Terraform, Kubernetes",
+    "parsedData": {
+      "title": "Systems Administrator",
+      "company": "InfraCore Services",
+      "location": "Dallas, TX",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Docker",
+        "Git",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Linux"
+      ],
+      "responsibilities": [
+        "Install, configure, and maintain server systems",
+        "Manage network infrastructure and security",
+        "Perform system backups and disaster recovery",
+        "Troubleshoot hardware and software issues",
+        "Maintain documentation and compliance"
+      ],
+      "qualifications": [
+        "3+ years of systems administration experience",
+        "Proficiency in Linux and Windows Server",
+        "Knowledge of networking concepts",
+        "Experience with virtualization (VMware, Hyper-V)",
+        "Scripting skills (Bash, PowerShell)",
+        "Time management and teamwork"
+      ],
+      "experience": "- 3+ years of systems administration experience",
+      "softSkills": [
+        "Teamwork",
+        "Time Management"
+      ],
+      "tools": [
+        "AWS"
+      ],
+      "technologies": [
+        "Docker",
+        "Git",
+        "Kubernetes",
+        "Terraform",
+        "Linux"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.553Z",
+    "updatedAt": "2026-07-02T16:38:12.553Z"
+  },
+  {
+    "id": "19f5b7c8-a7d5-4a76-b1bb-c3c8b408f236",
+    "userId": "seed",
+    "title": "AI Research Scientist",
+    "company": "DeepMind Labs",
+    "rawText": "Job Title: AI Research Scientist\nCompany: DeepMind Labs\nLocation: Cambridge, MA\n\nPush the boundaries of artificial intelligence research.\n\nResponsibilities:\n- Conduct cutting-edge AI research\n- Design and implement novel neural architectures\n- Publish research papers in top conferences\n- Collaborate with research teams globally\n- Mentor junior researchers\n\nQualifications:\n- PhD in Computer Science, AI, or related field\n- Strong publication record in ML/AI conferences\n- Deep understanding of deep learning theory\n- Proficiency in Python and PyTorch/TensorFlow\n- Experience with large-scale model training\n- Creativity and scientific rigor\n\nRequired Skills: Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Algorithms\nPreferred Skills: NLP, Computer Vision, Reinforcement Learning, Distributed Systems",
+    "parsedData": {
+      "title": "AI Research Scientist",
+      "company": "DeepMind Labs",
+      "location": "Cambridge, MA",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "Algorithms",
+        "Go",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "NLP"
+      ],
+      "responsibilities": [
+        "Conduct cutting-edge AI research",
+        "Design and implement novel neural architectures",
+        "Publish research papers in top conferences",
+        "Collaborate with research teams globally",
+        "Mentor junior researchers"
+      ],
+      "qualifications": [
+        "PhD in Computer Science, AI, or related field",
+        "Strong publication record in ML/AI conferences",
+        "Deep understanding of deep learning theory",
+        "Proficiency in Python and PyTorch/TensorFlow",
+        "Experience with large-scale model training",
+        "Creativity and scientific rigor"
+      ],
+      "softSkills": [
+        "Creativity"
+      ],
+      "tools": [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "NLP"
+      ],
+      "technologies": [
+        "Python",
+        "Algorithms",
+        "Go"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.555Z",
+    "updatedAt": "2026-07-02T16:38:12.555Z"
+  },
+  {
+    "id": "4eae7737-c458-4bb3-bda3-de44f669e75d",
+    "userId": "seed",
+    "title": "Solutions Architect",
+    "company": "Enterprise Solutions Group",
+    "rawText": "Job Title: Solutions Architect\nCompany: Enterprise Solutions Group\nLocation: New York, NY\n\nDesign end-to-end technical solutions for enterprise clients.\n\nResponsibilities:\n- Understand client requirements and design solutions\n- Create technical architecture documentation\n- Lead technical presentations and demonstrations\n- Guide development teams during implementation\n- Evaluate and recommend technologies\n\nQualifications:\n- 5+ years of software architecture experience\n- Deep knowledge of full-stack technologies\n- Experience with cloud architectures\n- Excellent presentation and communication skills\n- Previous consulting experience preferred\n- Leadership and negotiation skills\n\nRequired Skills: AWS, React, Node.js, SQL, Docker, REST APIs, Communication\nPreferred Skills: Kubernetes, Microservices, Event-Driven Architecture, Enterprise Integration",
+    "parsedData": {
+      "title": "Solutions Architect",
+      "company": "Enterprise Solutions Group",
+      "location": "New York, NY",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Docker",
+        "REST APIs",
+        "AWS",
+        "Go",
+        "Kubernetes",
+        "Excel"
+      ],
+      "responsibilities": [],
+      "qualifications": [
+        "Create technical architecture documentation",
+        "Lead technical presentations and demonstrations",
+        "Guide development teams during implementation",
+        "Evaluate and recommend technologies",
+        "5+ years of software architecture experience",
+        "Deep knowledge of full-stack technologies",
+        "Experience with cloud architectures",
+        "Excellent presentation and communication skills",
+        "Previous consulting experience preferred",
+        "Leadership and negotiation skills"
+      ],
+      "experience": "- 5+ years of software architecture experience",
+      "softSkills": [
+        "Communication",
+        "Leadership",
+        "Negotiation"
+      ],
+      "tools": [
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "AWS"
+      ],
+      "technologies": [
+        "React",
+        "Docker",
+        "Go",
+        "Kubernetes",
+        "Excel"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.557Z",
+    "updatedAt": "2026-07-02T16:38:12.557Z"
+  },
+  {
+    "id": "1da2d9b0-551f-49a9-aca9-e0bcb331e319",
+    "userId": "seed",
+    "title": "Database Administrator",
+    "company": "DataTrust Corp",
+    "rawText": "Job Title: Database Administrator\nCompany: DataTrust Corp\nLocation: Phoenix, AZ\n\nManage and optimize database systems across the organization.\n\nResponsibilities:\n- Install, configure, and maintain database servers\n- Perform database tuning and optimization\n- Implement backup and recovery strategies\n- Manage user access and security\n- Monitor database performance and availability\n\nQualifications:\n- 4+ years of DBA experience\n- Expertise in PostgreSQL and MySQL\n- Knowledge of MongoDB and Redis\n- Understanding of high-availability configurations\n- Scripting skills (Python, Bash)\n- Problem solving and attention to detail\n\nRequired Skills: SQL, PostgreSQL, MySQL, MongoDB, Redis, Linux, Bash\nPreferred Skills: AWS RDS, Azure SQL, Cassandra, Elasticsearch, Terraform",
+    "parsedData": {
+      "title": "Database Administrator",
+      "company": "DataTrust Corp",
+      "location": "Phoenix, AZ",
+      "requiredSkills": [],
+      "preferredSkills": [
+        "Python",
+        "SQL",
+        "AWS",
+        "MongoDB",
+        "PostgreSQL",
+        "Go",
+        "Rust",
+        "Terraform",
+        "Linux"
+      ],
+      "responsibilities": [
+        "Install, configure, and maintain database servers",
+        "Perform database tuning and optimization",
+        "Implement backup and recovery strategies",
+        "Manage user access and security",
+        "Monitor database performance and availability"
+      ],
+      "qualifications": [
+        "4+ years of DBA experience",
+        "Expertise in PostgreSQL and MySQL",
+        "Knowledge of MongoDB and Redis",
+        "Understanding of high-availability configurations",
+        "Scripting skills (Python, Bash)",
+        "Problem solving and attention to detail"
+      ],
+      "experience": "- 4+ years of DBA experience",
+      "softSkills": [
+        "Problem Solving"
+      ],
+      "tools": [
+        "SQL",
+        "AWS",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "technologies": [
+        "Python",
+        "Go",
+        "Rust",
+        "Terraform",
+        "Linux"
+      ]
+    },
+    "createdAt": "2026-07-02T16:38:12.559Z",
+    "updatedAt": "2026-07-02T16:38:12.559Z"
+  }
+]

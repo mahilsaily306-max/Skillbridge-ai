@@ -1,0 +1,164 @@
+[
+  {
+    "id": "c1",
+    "name": "Google IT Support",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-it-support",
+    "free": true,
+    "skills": [
+      "IT Support",
+      "Networking",
+      "Security"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 120
+  },
+  {
+    "id": "c2",
+    "name": "AWS Cloud Practitioner",
+    "provider": "AWS",
+    "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+    "free": false,
+    "skills": [
+      "AWS",
+      "Cloud"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 40
+  },
+  {
+    "id": "c3",
+    "name": "Meta Front-End Developer",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+    "free": true,
+    "skills": [
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 140
+  },
+  {
+    "id": "c4",
+    "name": "Google Data Analytics",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "free": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Analysis"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 180
+  },
+  {
+    "id": "c5",
+    "name": "IBM Data Science",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "free": true,
+    "skills": [
+      "Python",
+      "Data Science",
+      "Machine Learning"
+    ],
+    "difficulty": "intermediate",
+    "estimatedHours": 200
+  },
+  {
+    "id": "c6",
+    "name": "Meta Back-End Developer",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer",
+    "free": true,
+    "skills": [
+      "Node.js",
+      "Python",
+      "Django",
+      "Databases"
+    ],
+    "difficulty": "intermediate",
+    "estimatedHours": 140
+  },
+  {
+    "id": "c7",
+    "name": "Google Project Management",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-project-management",
+    "free": true,
+    "skills": [
+      "Project Management",
+      "Agile"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 160
+  },
+  {
+    "id": "c8",
+    "name": "Microsoft Azure Fundamentals",
+    "provider": "Microsoft",
+    "url": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals/",
+    "free": true,
+    "skills": [
+      "Azure",
+      "Cloud"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 30
+  },
+  {
+    "id": "c9",
+    "name": "FreeCodeCamp JavaScript",
+    "provider": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+    "free": true,
+    "skills": [
+      "JavaScript",
+      "DSA"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 300
+  },
+  {
+    "id": "c10",
+    "name": "Docker Essentials",
+    "provider": "IBM",
+    "url": "https://www.coursera.org/learn/docker-essentials",
+    "free": true,
+    "skills": [
+      "Docker"
+    ],
+    "difficulty": "beginner",
+    "estimatedHours": 15
+  },
+  {
+    "id": "c11",
+    "name": "Kubernetes Fundamentals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/learn/kubernetes",
+    "free": true,
+    "skills": [
+      "Kubernetes",
+      "Docker"
+    ],
+    "difficulty": "intermediate",
+    "estimatedHours": 30
+  },
+  {
+    "id": "c12",
+    "name": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "free": true,
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "difficulty": "advanced",
+    "estimatedHours": 200
+  }
+]

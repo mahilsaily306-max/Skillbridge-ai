@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f1f18cc4-5432-4584-81a3-26819a867683",
+    "userId": "3093e2f6-879f-41b3-bade-3e39095ac811",
+    "resumeId": "9eafc2ab-e39b-400b-918a-b4a65524d424",
+    "matchScore": null,
+    "atsScore": {
+      "overall": 84,
+      "length": 100,
+      "headings": 75,
+      "keywords": 100,
+      "formatting": 90,
+      "readability": 90,
+      "contact": 70,
+      "actionVerbs": 60,
+      "sections": 80,
+      "suggestions": [
+        "Use a clean, consistent format with clear section headings.",
+        "Quantify achievements with numbers where possible (e.g., \"Improved performance by 30%\")."
+      ]
+    },
+    "missingSkills": [],
+    "recommendations": [
+      "Use a clean, consistent format with clear section headings.",
+      "Quantify achievements with numbers where possible (e.g., \"Improved performance by 30%\")."
+    ],
+    "createdAt": "2026-07-02T05:53:26.459Z"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "0d50e77f-fe65-4d0b-b7c1-94df9dace37b",
+    "userId": "3093e2f6-879f-41b3-bade-3e39095ac811",
+    "fileName": "Mahil_Saily.pdf",
+    "fileType": "pdf",
+    "fileSize": 20998,
+    "filePath": "uploads\\e8820717-42ad-46a6-9fb6-bdd1cfe81e2f.pdf",
+    "parsedData": {
+      "email": "Mahilsaily306@gmail.com",
+      "phone": "+91 7508879306",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "SQL",
+        "Git",
+        "CSS",
+        "HTML",
+        "Tailwind CSS",
+        "Java",
+        "C++",
+        "Go",
+        "Agile",
+        "Excel",
+        "Critical Thinking",
+        "Collaboration"
+      ],
+      "experience": [
+        {
+          "title": "School Website Development — Web Developer & Quality TesterAcademic Project",
+          "description": " Developed and executed manual testing protocols for a fully responsive institutional website. Verified navigation menus, multi-device responsiveness, contact forms, and comprehensive user flows. Identified, documented, and resolved front-end rendering bugs and interactive alignment anomalies. Conducted comprehensive cross-browser compatibility testing; managed code delivery and version control via Git/GitHub. Proficient at parsing deep in-game ecosystems to catch technical bugs including collision/clipping failures, script blocks, texture pop-ins, audio latency, animation freezes, camera collision anomalies, and localization issues. Rockstar Games Titles: Red Dead Redemption I & II, Grand Theft Auto (III, Vice City, San Andreas, IV, V, Online), Bully, L.A. Noire, Additional Exposure: Forza Horizon Series, Minecraft, Valorant, Counter-Strike 2, PUBG: Battlegrounds, EA SPORTS FC, Need for"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Computer Applications (BCA) — D.A.V. College, JalandharExpected 2027",
+          "institution": "Affiliated with Guru Nanak Dev University (GNDU)"
+        }
+      ],
+      "projects": [],
+      "certifications": [
+        "Certifications: Google AI Essentials, Software Testing Fundamentals, Agile Fundamentals, Responsive Web Design, Git & GitHub",
+        "Fundamentals, Python Programming, JavaScript Essentials, SQL Basics.",
+        "Soft Skills: Exceptional Attention to Detail, Logical Reasoning, Bug Repro Formulation, Collaboration.",
+        "Languages: English, Hindi, Punjabi.",
+        "•",
+        "•",
+        "•",
+        "Page 1 of 1"
+      ],
+      "languages": [],
+      "achievements": []
+    },
+    "atsScore": {
+      "overall": 84,
+      "length": 100,
+      "headings": 75,
+      "keywords": 100,
+      "formatting": 90,
+      "readability": 90,
+      "contact": 70,
+      "actionVerbs": 60,
+      "sections": 80,
+      "suggestions": [
+        "Use a clean, consistent format with clear section headings.",
+        "Quantify achievements with numbers where possible (e.g., \"Improved performance by 30%\")."
+      ]
+    },
+    "createdAt": "2026-07-02T17:09:27.246Z",
+    "updatedAt": "2026-07-02T17:09:27.246Z"
+  }
+]
